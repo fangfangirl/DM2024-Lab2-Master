@@ -1,0 +1,3 @@
+The first picture, it shows overfitting because the training accuracy is very high, but the verification accuracy is low. This model may only have good prediction performance on the training set data but cannot generalize to new data. This may be because the model is too complex and has learned noise or unnecessary details in the training data, making it difficult to generalize to new data and causing poor performance.
+
+The second picture, it shows 
